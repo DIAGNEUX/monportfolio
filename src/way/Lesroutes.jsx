@@ -10,6 +10,7 @@ export const Lesroutes = () => {
   return (
     <div>
         <Routes>
+            <Route path="/monportfolio" element={<Accueil />} />
             <Route path="/" element={<Accueil />} exact />
             <Route path="/bts-sio" element={<BtsSio />} />
             <Route path="/ecole" element={<Ecole />} />
