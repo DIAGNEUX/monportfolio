@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/monportfolio/static/css/main.b38145da.css",
+    "main.js": "/monportfolio/static/js/main.b201e049.js",
+    "static/js/787.3503cf78.chunk.js": "/monportfolio/static/js/787.3503cf78.chunk.js",
+    "static/media/glpi.pdf": "/monportfolio/static/media/glpi.a0f3856a0c56dd86049f.pdf",
+    "static/media/AP2.pdf": "/monportfolio/static/media/AP2.02b23585d72bcfddeb4e.pdf",
+    "static/media/AP3.png": "/monportfolio/static/media/AP3.986b96885919c20b587d.png",
+    "static/media/AP3 doc1.pdf": "/monportfolio/static/media/AP3 doc1.883a4886c081e8b72c8f.pdf",
+    "static/media/stage doc.pdf": "/monportfolio/static/media/stage doc.2a734a082324866d16d6.pdf",
+    "static/media/bibliotheque.pdf": "/monportfolio/static/media/bibliotheque.9d5d73b8ea2d973c256c.pdf",
+    "static/media/library.png": "/monportfolio/static/media/library.0ef31ee71b10fc4fdb15.png",
+    "static/media/profil.png": "/monportfolio/static/media/profil.93a0c0f694df0bb355e9.png",
+    "static/media/GLPI.png": "/monportfolio/static/media/GLPI.9b6fd903d46efa9081ba.png",
+    "static/media/Présentation projet slam.pdf": "/monportfolio/static/media/Présentation projet slam.667c0d3beaf5c487e30b.pdf",
+    "static/media/diagne-alioune-cv.pdf": "/monportfolio/static/media/diagne-alioune-cv.ebf6fe10514014dd91df.pdf",
+    "static/media/ps_site.png": "/monportfolio/static/media/ps_site.b8b984ea38ccd20e12e6.png",
+    "static/media/first Veille technologique.pdf": "/monportfolio/static/media/first Veille technologique.b7aee8a8d23bac915699.pdf",
+    "static/media/Les outils de la veille technologie.pdf": "/monportfolio/static/media/Les outils de la veille technologie.2629efbcd00918ac17d4.pdf",
+    "static/media/Tableau de synthèse - Epreuve E4 - BTS SIO 2023.pdf": "/monportfolio/static/media/Tableau de synthèse - Epreuve E4 - BTS SIO 2023.5df236d8c132927e1785.pdf",
+    "static/media/Etude de Marche.pdf": "/monportfolio/static/media/Etude de Marche.bd990c539bd22c0082fb.pdf",
+    "static/media/Equipe.pdf": "/monportfolio/static/media/Equipe.62505a545954e00cb2de.pdf",
+    "static/media/Inventaire.pdf": "/monportfolio/static/media/Inventaire.efbd16c7bebb99c2249a.pdf",
+    "static/media/Kbis.pdf": "/monportfolio/static/media/Kbis.2e8159e2f0b97819a5ed.pdf",
+    "static/media/Facture.pdf": "/monportfolio/static/media/Facture.5f384a673c2e31b435d8.pdf",
+    "static/media/UI and UX.png": "/monportfolio/static/media/UI and UX.a899b849751504c75b6d.png",
+    "index.html": "/monportfolio/index.html",
+    "main.b38145da.css.map": "/monportfolio/static/css/main.b38145da.css.map",
+    "main.b201e049.js.map": "/monportfolio/static/js/main.b201e049.js.map",
+    "787.3503cf78.chunk.js.map": "/monportfolio/static/js/787.3503cf78.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b38145da.css",
+    "static/js/main.b201e049.js"
+  ]
+}
