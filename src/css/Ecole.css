@@ -1,0 +1,176 @@
+.main_ecole{
+  padding-top: 70px;
+}
+.main_ecole .Lestags{
+  width: 100%;
+  margin: 10px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.main_ecole .Lestags ul{
+  border: 1px solid rgba(128, 128, 128, 0.432);
+  display: flex;
+  border-radius: 20px;
+
+}
+.main_ecole .Lestags ul li{
+  list-style: none;
+  font-size: 23px;
+  padding: 15px 10px;
+  cursor: pointer;
+  margin:5px;
+}
+.activeTag{
+  background-color: #387773;
+  border-radius: 20px;
+  transition: 0.5s;
+}
+  .main_ecole h3{
+    text-align: center;
+  }
+  .main_ecole .ps .englobe_ps{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .main_ecole .ps .grid_ps{
+    width: 80%;
+    display: grid;
+    gap: 20px;
+    grid-template-columns: repeat(2,50%);
+    position: relative;
+  
+  }
+  .main_ecole .ps .grid_ps .Card{
+    position: relative;
+    background-color: rgba(41, 41, 41, 0.232);
+  
+  }
+  .main_ecole .ps .grid_ps div .img-project{
+    width: 100%;
+    height: 350px;
+  }
+  .englobe_ecole_par h1{
+    padding:15px ;
+  }
+.englobe_ecole_par .tools{
+  width: 100%;
+  display: flex;
+}
+.englobe_ecole_par .tools div{
+  padding: 8px 15px;
+  margin: 0 10px;
+  background-color:rgb(58, 58, 57);
+  border-radius: 10px;
+  opacity: 0.7;
+  
+}
+.englobe_ecole_btn a img{
+  width: 30px;
+  height: 30px;
+}
+.englobe_ecole_btn a{
+  padding: 15px;
+  display: flex;
+  align-items: center;
+  justify-self: space-between;
+  text-decoration: none;
+}
+.englobe_ecole_btn button {
+  background: none;
+  outline: none;
+  border: none;
+  font-size: 18px;
+
+}
+
+.Ap1{
+  padding-top: 70px;
+}
+.Ap1 h1{
+  text-align: center;
+  margin: 20px 0;
+}
+.Ap1 .Api-Docs{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+.Ap1 .Api-Docs .docs{
+  padding: 10px 20px;
+  background-color: rgb(58, 58, 57);;
+}
+.wrap-Affichage{
+  margin-top: 40px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.affichage{
+  width: 80%;
+}
+.Eratech{
+  margin: 40px 0;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.Eratech .website{
+  padding: 8px 16px;
+  font-size: 23px;
+  border-radius: 20px;
+  background-color: #387773;
+}
+.Eratech .website a{
+  text-decoration: none;
+}
+
+.Wrapmesdocus{
+  width: 100%;
+  display: flex;
+  align-items:center;
+  justify-content: center;
+
+}
+.mesdocus{
+  width: 80%;
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  gap: 20px;
+
+}
+.mesdocus div{
+  width: 280px;
+  height: 180px;
+  background-color: rgb(73, 73, 73);
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.mesdocus div p{
+  font-size: 30px;
+  width: 150px;
+  text-align: center;
+  cursor: pointer;
+
+}
+.mesdocus div:hover{
+  box-shadow:
+  0 0 3px #fff,
+  0 0 4px #fff,
+  0 0 5px #fff,
+  0 0 10px rgb(116, 233, 194),
+  0 0 15px #387773,
+  0 0 20px #387773,
+  0 0 25px #387773,
+  0 0 30px #387773;
+}
+.mesdocus div a{
+  text-decoration: none;
+}

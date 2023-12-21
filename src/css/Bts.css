@@ -1,0 +1,38 @@
+.main_bts{
+    padding-top: 70px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+  }
+  .main_bts .wrap_bts{
+    width: 80%;
+    position: relative;
+  
+  }
+  .main_bts .wrap_bts h1 ,
+  .main_bts .wrap_bts  h3 {
+    text-align: center;
+    margin: 3px 0;
+  }
+  .SISR , .SLAM{
+    margin: 3px 0;
+  
+  }
+  .secu{
+    margin-top: 10px;
+  }
+  .secu h2{
+    text-align: center;
+  }
+  .main_bts .wrap_bts h1 {
+    color: #387773;
+  }
+  .main_bts .wrap_bts .bts_grid{
+    display: grid;
+    gap: 20px;
+    margin-top: 20px;
+    grid-template-columns: repeat(2,50%);
+    
+  }
