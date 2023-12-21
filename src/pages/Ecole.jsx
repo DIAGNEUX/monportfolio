@@ -10,7 +10,7 @@ import BiblioDoc from '../Assets/otherDoc/bibliotheque.pdf'
 import Ap3Doc from "../Assets/otherDoc/AP3 doc1.pdf"
 import GlpIDoc from "../Assets/otherDoc/glpi.pdf"
 import inventaire from "../Assets/otherDoc/Inventaire.pdf"
-import AP2 from "../Assets/otherDoc/AP2.pdf"
+import AP2 from "../Assets/otherDoc/AP2 c.pdf"
 
 export const Ecole = () => {
   const [displayProjects, setDisplayProjects] = useState(true); 
