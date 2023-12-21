@@ -30,7 +30,7 @@ export const Ap1 = () => {
       </div>
       </div>
       <div className='Eratech'>
-      <div className='website'><a href="https://diagneux.github.io/eratech/"> Consultez le site</a></div>
+      <div className='website'><a href="https://diagneux.github.io/eratech/" target="_blank"> Consultez le site</a></div>
       </div>
     </div>
   )
