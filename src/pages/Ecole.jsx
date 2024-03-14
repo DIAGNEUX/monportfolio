@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { Link } from 'react-router-dom';
 import GLPI from '../Assets/GLPI.png';
 import AP3 from '../Assets/AP3.png';
 import AP1 from '../Assets/ps_site.png';
@@ -13,6 +14,7 @@ import inventaire from "../Assets/otherDoc/Inventaire.pdf"
 import doctechnique from '../Assets/Api-docs/doctec.pdf'
 import AP2 from "../Assets/otherDoc/AP2 c.pdf"
 import doctecAP4 from "../Assets/Api-docs/doctecAP4.pdf"
+import DocUtil from './DocUtil';
 
 export const Ecole = () => {
   const [displayProjects, setDisplayProjects] = useState(true); 
@@ -118,7 +120,10 @@ export const Ecole = () => {
                 <a href={doctechnique} target='_blank' ><p>document technique AP3</p></a>
                 </div>
                 <div>
-                <a href={doctecAP4} target='_blank' ><p>document technique AP4</p></a>
+                <Link to="/techAP4"><p>document technique AP4</p></Link>
+                </div>
+                <div>
+                <Link to="/DocUtil"><p>document technique AP4</p></Link>
                 </div>
                 </div>
             </div>

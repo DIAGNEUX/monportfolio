@@ -6,6 +6,8 @@ import {Ecole} from '../pages/Ecole';
 import {VeilleTechnologique} from '../pages/VeilleTechnologique'
 import { Entreprise } from '../pages/Entreprise';
 import {Ap1} from '../component/Ap1';
+import TechAP4 from '../pages/techAP4';
+import DocUtil from '../pages/DocUtil';
 export const Lesroutes = () => {
   return (
     <div>
@@ -17,6 +19,8 @@ export const Lesroutes = () => {
             <Route path="/entreprise" element={<Entreprise />} />
             <Route path="/veille-technologique" element={<VeilleTechnologique />} />
             <Route path="/Ap1" element={<Ap1 />} />
+            <Route path="/techAP4" element={<TechAP4 />} />
+            <Route path="/DocUtil" element={<DocUtil />} />
           </Routes>
     </div>
   )
