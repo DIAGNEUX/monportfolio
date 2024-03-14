@@ -120,7 +120,7 @@ export const Ecole = () => {
                 <a href={doctechnique} target='_blank' ><p>document technique AP3</p></a>
                 </div>
                 <div>
-                <Link to="/techAP4"><p>document technique AP4</p></Link>
+                <Link to="techAP4"><p>document technique AP4</p></Link>
                 </div>
                 <div>
                 <Link to="/DocUtil"><p>document technique AP4</p></Link>
