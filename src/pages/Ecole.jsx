@@ -10,6 +10,7 @@ import BiblioDoc from '../Assets/otherDoc/bibliotheque.pdf'
 import Ap3Doc from "../Assets/otherDoc/AP3 doc1.pdf"
 import GlpIDoc from "../Assets/otherDoc/glpi.pdf"
 import inventaire from "../Assets/otherDoc/Inventaire.pdf"
+import doctechnique from '../Assets/Api-docs/fiche technique final.pdf'
 import AP2 from "../Assets/otherDoc/AP2 c.pdf"
 
 export const Ecole = () => {
@@ -63,6 +64,7 @@ export const Ecole = () => {
                     </div>
                   </div>
                 </div>
+                
                 <div className="Card">
                   <a href={Ap3Doc} target='_blank'>
                     <img className='img-project' src={AP3} alt="" />
@@ -95,6 +97,8 @@ export const Ecole = () => {
                 </div>
               </div>
             </div>
+            
+            
           ) : (
             <div className='Wrapmesdocus'>
               <div className='mesdocus'>
@@ -108,6 +112,9 @@ export const Ecole = () => {
                 </div>
                 <div>
                 <a href={inventaire} target='_blank' ><p>Inventaire</p></a>
+                </div>
+                <div>
+                <a href={doctechnique} target='_blank' ><p>document technique AP3</p></a>
                 </div>
                 </div>
             </div>
