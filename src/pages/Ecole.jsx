@@ -12,6 +12,7 @@ import GlpIDoc from "../Assets/otherDoc/glpi.pdf"
 import inventaire from "../Assets/otherDoc/Inventaire.pdf"
 import doctechnique from '../Assets/Api-docs/doctec.pdf'
 import AP2 from "../Assets/otherDoc/AP2 c.pdf"
+import doctecAP4 from "../Assets/Api-docs/doctecAP4.pdf"
 
 export const Ecole = () => {
   const [displayProjects, setDisplayProjects] = useState(true); 
@@ -115,6 +116,9 @@ export const Ecole = () => {
                 </div>
                 <div>
                 <a href={doctechnique} target='_blank' ><p>document technique AP3</p></a>
+                </div>
+                <div>
+                <a href={doctecAP4} target='_blank' ><p>document technique AP4</p></a>
                 </div>
                 </div>
             </div>
