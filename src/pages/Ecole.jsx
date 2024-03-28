@@ -15,6 +15,9 @@ import doctechnique from '../Assets/Api-docs/doctec.pdf'
 import AP2 from "../Assets/otherDoc/AP2 c.pdf"
 import doctecAP4 from "../Assets/Api-docs/doctecAP4.pdf"
 import DocUtil from './DocUtil';
+import mockup from "../Assets/mockup.png"
+import AP4 from "../Assets/AP4.png"
+import Lebon from "../Assets/Lebon.png"
 
 export const Ecole = () => {
   const [displayProjects, setDisplayProjects] = useState(true); 
@@ -41,7 +44,7 @@ export const Ecole = () => {
                   <img onClick={() => navigate("/Ap1")} className='img-project' src={AP1} alt="" />
                   <div className="englobe_ecole_par">
                     <div>
-                      <h1>Atelier professionnel</h1>
+                      <h1>Atelier professionnel 1</h1>
                       <div className='tools'>
                         <div>Html</div>
                         <div>css</div>
@@ -51,23 +54,6 @@ export const Ecole = () => {
                     </div>
                   </div>
                 </div>
-                <div className="Card">
-                  <a href={BiblioDoc} target='_blank'>
-                    <img className='img-project' src={Bibliotheque} alt="" />
-                  </a>
-                  <div className="englobe_ecole_par">
-                    <div>
-                      <h1>Projet Bibliotheque</h1>
-                      <div className='tools'>
-                        <div>Php</div>
-                        <div>Css</div>
-                        <div>Javascript</div>
-                        <div>Google book Api</div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                
                 <div className="Card">
                   <a href={Ap3Doc} target='_blank'>
                     <img className='img-project' src={AP3} alt="" />
@@ -85,6 +71,38 @@ export const Ecole = () => {
                   </div>
                 </div>
                 <div className='Card'>
+                  <a href="" target='_blank'>
+                    <img className='img-project' src={Lebon} alt="" />
+                  </a>
+                  <div className="englobe_ecole_par">
+                    <div>
+                      <h1>Atelier professionnel 4</h1>
+                      <div className='tools'>
+                        <div>Application Mobile</div>
+                        <div>Gestion de stock</div>
+                        <div>Flutter</div>
+
+                      </div>
+                    </div>
+                  </div>
+                </div> 
+                <div className="Card">
+                  <a href={BiblioDoc} target='_blank'>
+                    <img className='img-project' src={Bibliotheque} alt="" />
+                  </a>
+                  <div className="englobe_ecole_par">
+                    <div>
+                      <h1>Projet Bibliotheque</h1>
+                      <div className='tools'>
+                        <div>Php</div>
+                        <div>Css</div>
+                        <div>Javascript</div>
+                        <div>Google book Api</div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className='Card'>
                   <a href={GlpIDoc} target='_blank'>
                     <img className='img-project' src={GLPI} alt="" />
                   </a>
@@ -97,7 +115,8 @@ export const Ecole = () => {
                       </div>
                     </div>
                   </div>
-                </div>
+                </div> 
+                
               </div>
             </div>
             

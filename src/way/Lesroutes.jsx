@@ -8,6 +8,8 @@ import { Entreprise } from '../pages/Entreprise';
 import {Ap1} from '../component/Ap1';
 import Doctech from '../pages/DocTech';
 import DocUtil from '../pages/DocUtil';
+import { PremiereAnnée } from '../pages/PremiereAnnée';
+import { DeuxiemeAnnée } from '../pages/DeuxiemeAnnée';
 export const Lesroutes = () => {
   return (
     <div>
@@ -21,6 +23,8 @@ export const Lesroutes = () => {
             <Route path="/Ap1" element={<Ap1 />} />
             <Route path="/DocUtil" element={<DocUtil />} />
             <Route path="/DocTech" element={<Doctech />} />
+            <Route path="/PremiereAnnée" element={<PremiereAnnée />} />
+            <Route path="/DeuxiemeAnnée" element={<DeuxiemeAnnée />} />
           </Routes>
     </div>
   )
