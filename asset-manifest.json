@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/monportfolio/static/css/main.af7c5f77.css",
-    "main.js": "/monportfolio/static/js/main.6ef02491.js",
+    "main.js": "/monportfolio/static/js/main.06667dbb.js",
     "static/js/787.3503cf78.chunk.js": "/monportfolio/static/js/787.3503cf78.chunk.js",
     "static/media/glpi.pdf": "/monportfolio/static/media/glpi.a0f3856a0c56dd86049f.pdf",
     "static/media/AP2 c.pdf": "/monportfolio/static/media/AP2 c.4d9c4c186402baa7fe47.pdf",
@@ -28,17 +28,18 @@
     "static/media/Inventaire.pdf": "/monportfolio/static/media/Inventaire.efbd16c7bebb99c2249a.pdf",
     "static/media/mockup.png": "/monportfolio/static/media/mockup.0f4f697e09cc99283edc.png",
     "static/media/Kbis.pdf": "/monportfolio/static/media/Kbis.2e8159e2f0b97819a5ed.pdf",
+    "static/media/AP2_img.png": "/monportfolio/static/media/AP2_img.2716728c470821284579.png",
     "static/media/Facture.pdf": "/monportfolio/static/media/Facture.5f384a673c2e31b435d8.pdf",
     "static/media/doctecAP4.pdf": "/monportfolio/static/media/doctecAP4.bec3f80d926d0e30faaf.pdf",
     "static/media/docUtAP4.pdf": "/monportfolio/static/media/docUtAP4.549eebbeaa3d237c3dea.pdf",
     "static/media/UI and UX.png": "/monportfolio/static/media/UI and UX.a899b849751504c75b6d.png",
     "index.html": "/monportfolio/index.html",
     "main.af7c5f77.css.map": "/monportfolio/static/css/main.af7c5f77.css.map",
-    "main.6ef02491.js.map": "/monportfolio/static/js/main.6ef02491.js.map",
+    "main.06667dbb.js.map": "/monportfolio/static/js/main.06667dbb.js.map",
     "787.3503cf78.chunk.js.map": "/monportfolio/static/js/787.3503cf78.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.af7c5f77.css",
-    "static/js/main.6ef02491.js"
+    "static/js/main.06667dbb.js"
   ]
 }
