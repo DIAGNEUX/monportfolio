@@ -18,6 +18,7 @@ import DocUtil from './DocUtil';
 import mockup from "../Assets/mockup.png"
 import AP4 from "../Assets/AP4.png"
 import Lebon from "../Assets/Lebon.png"
+import AP2_img from "../Assets/AP2_img.png"
 
 export const Ecole = () => {
   const [displayProjects, setDisplayProjects] = useState(true); 
@@ -50,6 +51,20 @@ export const Ecole = () => {
                         <div>css</div>
                         <div>javascript</div>
                         <div>Figma</div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className='Card'>
+                <a href={AP2} target="_blank" rel="noopener noreferrer">
+                  <img  className='img-project' src={AP2_img} alt="" />
+                  </a>
+                  <div className="englobe_ecole_par">
+                    <div>
+                      <h1>Atelier professionnel 2</h1>
+                      <div className='tools'>
+                        <div>Gestion de proget</div>
+                        <div>Solution</div>
                       </div>
                     </div>
                   </div>
