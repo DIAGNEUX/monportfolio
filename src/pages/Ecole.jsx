@@ -157,7 +157,7 @@ export const Ecole = () => {
                 <Link to="/Doctech"><p>document technique AP4</p></Link>
                 </div>
                 <div>
-                <Link to="/DocUtil"><p>document technique AP4</p></Link>
+                <Link to="/DocUtil"><p>document Utilisateur AP4</p></Link>
                 </div>
                 </div>
             </div>
