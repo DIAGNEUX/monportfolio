@@ -13,7 +13,8 @@ import GlpIDoc from "../Assets/otherDoc/glpi.pdf"
 import inventaire from "../Assets/otherDoc/Inventaire.pdf"
 import doctechnique from '../Assets/Api-docs/doctec.pdf'
 import AP2 from "../Assets/otherDoc/AP2 c.pdf"
-import doctecAP4 from "../Assets/Api-docs/doctecAP4.pdf"
+import docUtAP4 from "../Assets/Api-docs/docUtAP4.pdf"
+import DocUtilAP4 from './DocUtil';
 import DocUtil from './DocUtil';
 import mockup from "../Assets/mockup.png"
 import AP4 from "../Assets/AP4.png"
@@ -86,7 +87,7 @@ export const Ecole = () => {
                   </div>
                 </div>
                 <div className='Card'>
-                  <a href="" target='_blank'>
+                  <a href={docUtAP4} target='_blank'>
                     <img className='img-project' src={Lebon} alt="" />
                   </a>
                   <div className="englobe_ecole_par">
