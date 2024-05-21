@@ -5,6 +5,8 @@ import tableau from "../Assets/otherDoc/Tableau de synthèse - Epreuve E4 - BTS 
 import sentechs from "../Assets/sentechs logo.png"
 import stage from "../Assets/otherDoc/stage doc.pdf"
 import TSF from "../Assets/TSF.jpg"
+import rapporttsf from "../Assets/tsfstage.pdf"
+
 
 export const DeuxiemeAnnée = () => {
   return (
@@ -41,7 +43,7 @@ export const DeuxiemeAnnée = () => {
             <div className="tocenter">
               <div>
               <button>
-                <a href={stage} target="_blank" rel="noopener noreferrer">Rapport de stage</a>
+                <a href={rapporttsf} target="_blank" rel="noopener noreferrer">Rapport de stage</a>
                 </button>
               </div>
             </div>

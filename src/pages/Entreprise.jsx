@@ -12,7 +12,6 @@ import TSF from "../Assets/TSF.jpg"
 import { PremiereAnnées } from './PremiereAnnée';
 import { DeuxiemeAnnée } from './DeuxiemeAnnée';
 
-
 export const Entreprise = () => {
   const [displayProjects, setDisplayProjects] = useState(true); 
   const handleTagClick = (isProjects) => {

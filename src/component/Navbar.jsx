@@ -24,7 +24,7 @@ export default function Navbar() {
     <div>
       <div className={`navbar${sticky ? 'sticky' : '' }` }>
         <div className="logo">
-          <p>AD</p>
+          <p>A.Diagne</p>
         </div>
         <div className="link">
           <ul>

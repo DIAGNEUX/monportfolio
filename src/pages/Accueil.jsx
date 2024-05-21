@@ -108,6 +108,14 @@ const Accueil = () => {
           </h1>
           {showExperience && (
             <div className="experience">
+        <ul>
+        <h3>Projet Developpeur FullStack</h3>
+        <p>SENTECHS - Mai 2023 à août 2023</p>
+        <li>Création d'un site de portage salarial en utilisant les langages React.js</li>
+        <li>Conception d'images et de maquettes sur Figma</li>
+        <li>Utilisation de Chart.js pour générer des graphiques </li>
+        <li>Mise en place et utilisation de Google Tag Manager</li>
+       </ul>
        <ul>
         <h3> Projet Developpeur FullStack</h3>
         <p>Ipssi - Mars 2023 à avril 2023</p>

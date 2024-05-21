@@ -29,7 +29,7 @@ export const PremiereAnnée = () => {
             <ul>
                 <li>Creation de site de portage salarial</li>
                 <li>Creation de base de données</li>
-                <li>Utilisation des langages React js , Node js , mysql ou Mongo db</li>
+                <li>Utilisation des langages React js , Node js , mysql</li>
                 <li>Utilisation de google tag manager </li>
             </ul>
             </div>

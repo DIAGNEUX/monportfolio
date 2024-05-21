@@ -82,6 +82,12 @@ body{
   text-decoration: none;
 }
 
+.navbar .logo p ,
+.navbarsticky .logo p{
+  font-size: 25px;
+  color: #387773;
+}
+
 
 .Accueil{
   width: 100%;
