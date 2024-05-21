@@ -1,8 +1,10 @@
 import React from 'react';
 import "../css/Veille.css"
 import ui from "../Assets/UI and UX.png"
+import web3img from "../Assets/Web3img.jpg"
 import FirstV from '../Assets/otherDoc/first Veille technologique.pdf'
 import lesoutilsV from "../Assets/otherDoc/Les outils de la veille technologie.pdf"
+import Web3 from '../Assets/Web3.pdf'
 
 export const VeilleTechnologique = () => {
   return (
@@ -38,7 +40,19 @@ export const VeilleTechnologique = () => {
             </div>
           </div>
           <div className="the_second">
-            <h1>La deuxième veille</h1>
+            <div className="englobe_UI">
+              <img src={web3img} alt="" />
+              <div className="englobe_par">
+                <div>
+                  <p>Web3, l'évolution future d'Internet</p>
+                  <div className="center_btn">
+                    <a href={Web3}>
+                      <button> documentation veille technologique</button>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
