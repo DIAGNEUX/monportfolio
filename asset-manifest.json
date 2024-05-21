@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/monportfolio/static/css/main.8eb07f1d.css",
-    "main.js": "/monportfolio/static/js/main.8ddbfefc.js",
+    "main.js": "/monportfolio/static/js/main.2c22f1ec.js",
     "static/js/787.3503cf78.chunk.js": "/monportfolio/static/js/787.3503cf78.chunk.js",
     "static/media/glpi.pdf": "/monportfolio/static/media/glpi.a0f3856a0c56dd86049f.pdf",
     "static/media/doctecAP4.pdf": "/monportfolio/static/media/doctecAP4.230a4194f6ebdc250270.pdf",
@@ -18,6 +18,7 @@
     "static/media/Présentation projet slam.pdf": "/monportfolio/static/media/Présentation projet slam.667c0d3beaf5c487e30b.pdf",
     "static/media/diagne-alioune-cv.pdf": "/monportfolio/static/media/diagne-alioune-cv.ebf6fe10514014dd91df.pdf",
     "static/media/ps_site.png": "/monportfolio/static/media/ps_site.b8b984ea38ccd20e12e6.png",
+    "static/media/Web3.pdf": "/monportfolio/static/media/Web3.3d87d6dcc375a68ad8ff.pdf",
     "static/media/first Veille technologique.pdf": "/monportfolio/static/media/first Veille technologique.b7aee8a8d23bac915699.pdf",
     "static/media/Lebon.png": "/monportfolio/static/media/Lebon.66234436b05ddc951089.png",
     "static/media/AP4.png": "/monportfolio/static/media/AP4.4a34251c62512649629f.png",
@@ -33,13 +34,14 @@
     "static/media/AP2_img.png": "/monportfolio/static/media/AP2_img.2716728c470821284579.png",
     "static/media/Facture.pdf": "/monportfolio/static/media/Facture.5f384a673c2e31b435d8.pdf",
     "static/media/UI and UX.png": "/monportfolio/static/media/UI and UX.a899b849751504c75b6d.png",
+    "static/media/Web3img.jpg": "/monportfolio/static/media/Web3img.b622f699c6e75b0a61ad.jpg",
     "index.html": "/monportfolio/index.html",
     "main.8eb07f1d.css.map": "/monportfolio/static/css/main.8eb07f1d.css.map",
-    "main.8ddbfefc.js.map": "/monportfolio/static/js/main.8ddbfefc.js.map",
+    "main.2c22f1ec.js.map": "/monportfolio/static/js/main.2c22f1ec.js.map",
     "787.3503cf78.chunk.js.map": "/monportfolio/static/js/787.3503cf78.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8eb07f1d.css",
-    "static/js/main.8ddbfefc.js"
+    "static/js/main.2c22f1ec.js"
   ]
 }
