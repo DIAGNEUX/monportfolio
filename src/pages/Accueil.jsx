@@ -30,7 +30,6 @@ const Accueil = () => {
           <div className='presentation'>
             <div className='left'>
               <div>
-              
             <h1>Bonjour je suis <span >Alioune</span> </h1>
             <h2>Je suis étudiant en <span> BTS SIO </span>  </h2>
             <h3>option SLAM</h3>
@@ -73,10 +72,7 @@ const Accueil = () => {
                       <img src={coding} alt="" />
                       </div>
                         <h1>Developpement Web</h1>
-                        <h4>Conception et programmation d'un site web
-                             en <span> HTML/CSS/JAVASCRIPT/PHP 
-                             REACT/NODE JS </span>
-                             </h4>
+                        <h4>HTML, CSS, JAVASCRIPT, PHP, REACT, NODE JS</h4>
                     </div>
                     <div class="card" >
                       <div className='card-img'>

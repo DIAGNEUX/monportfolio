@@ -54,11 +54,10 @@ body{
   color: white;
   position: fixed;
   z-index: 50;
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(36, 35, 35, 0.2);
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
   backdrop-filter: blur(5px);
   -webkit-backdrop-filter: blur(5px);
-  border: 1px solid rgba(255, 255, 255, 0.218);
   
 }
 .navbar .link ul li , .navbarsticky .link ul li{
@@ -113,7 +112,7 @@ body{
   margin: 15px 0;
 }
 .left h1{
-  font-size: 60px;
+  font-size: 50px;
   
 }
 .left h1 span{
@@ -239,6 +238,7 @@ body{
 }
 .Skills{
   position: relative;
+  margin-top: 40px;
 
 }
 .Skills h1{
@@ -250,13 +250,14 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-wrap: wrap;
   gap: 30px;
 }
 .grid_competence .card{
   margin-top: 40px;
   width: 320px;
   height: 300px;
-  border: 1px solid #387773;
+  flex-wrap: wrap;
   border-radius: 20px;
   padding: 10px;
   background:linear-gradient(rgb(33, 10, 10),#387773, #4ca59f);
@@ -298,6 +299,7 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-top: 40px;
 }
 .grid_them{
   width: 80%;
@@ -319,7 +321,7 @@ body{
   display: flex;
   align-items: center;
   justify-content: space-around;
-  border: 1px solid green;
+  border: 1px solid #387773;
 }
 .exper_prof ul{
   margin: 15px 20px;
