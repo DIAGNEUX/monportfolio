@@ -39,21 +39,6 @@ export const VeilleTechnologique = () => {
               </div>
             </div>
           </div>
-          <div className="the_second">
-            <div className="englobe_UI">
-              <img src={web3img} alt="" />
-              <div className="englobe_par">
-                <div>
-                  <p>Web3, l'évolution future d'Internet</p>
-                  <div className="center_btn">
-                    <a href={Web3}>
-                      <button> documentation veille technologique</button>
-                    </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
         </div>
       </div>
     </main>
